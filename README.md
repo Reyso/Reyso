@@ -3,7 +3,7 @@
 <h2 align="center">I'm graduating in Computer Engineering from UFPA, technology  and 🐈 lover</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reyso&label=Profile%20views&color=0e75b6&style=flat" alt="reyso" /> </p>
 
-
+<h3 align="center">I am a data scientist in evolution 🚀 </h3>
 
 - 🌱 I’m currently learning **Scikit learn, Pyspark , Flask API, Hadoop, Amazon Web Services**
 
