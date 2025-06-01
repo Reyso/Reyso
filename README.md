@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **data science projetcs an AI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Reyso](https://github.com/Reyso)
+- 👨‍💻 All of my projects are available at [Página de Projetos](https://reyso.github.io/portifolio_projetos/)
 
 - 📫 How to reach me **reyso.ct@gmail.com**
 
