@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **reyso.ct@gmail.com**
 
+- My resumy : [Resume Reyso Teixeira] [https://drive.google.com/file/d/1ufpCdC_chNhXtx6Jgxsl0Nthol4lI_yl/view?usp=sharing]
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="reyso_ct" height="30" width="40" /></a>
